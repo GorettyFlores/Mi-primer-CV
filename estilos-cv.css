@@ -1,0 +1,37 @@
+.mainbody {
+    background-color: rgb(193, 251, 253);
+}
+
+.main {
+    text-align: center;
+    background-color: rgb(205, 152, 255);
+    font-family: cursive;
+    width: 1000px;
+    margin-left: 150px;
+}
+
+.image-profile {
+    border-radius: 120px;
+    margin-left: 500px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.section {
+    font-family: cursive;
+}
+
+
+.skills {
+    font-family:cursive;
+}
+
+.body {
+    background-color: rgb(247, 158, 220);
+    width: 700px;
+    margin-left: 330px;
+    text-align: justify;
+    font-family: cursive;
+}
